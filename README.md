@@ -15,7 +15,7 @@ This is a simple demo application built using [Langchain](https://www.langchain.
 
 ## 🔧 Setup
 
- 1. Clone the repository
+1. Clone the repository
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/langchain-demo.git
