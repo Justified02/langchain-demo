@@ -1,0 +1,22 @@
+langchain-openai
+langchain-core
+python-dotenv
+streamlit
+langchain-community
+langserve
+fastapi
+uvicorn
+sse-starlette
+beautifulsoup4        # was 'bs4' — this is the correct name
+pypdf
+chromadb
+faiss-cpu
+groq
+cassio
+langchain-groq
+wikipedia
+arxiv
+langchainhub
+sentence-transformers  # was 'sentence_transformers' — use dash here
+PyPDF2
+langchain-objectbox
